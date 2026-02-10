@@ -1,4 +1,4 @@
-# Sigma tribes
+# Ergo Tribes
 
 > Where Reason Outweighs the Noise.
 
