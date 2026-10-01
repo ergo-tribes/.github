@@ -4,4 +4,4 @@
 
 P2P application for meritocratic autonomus organizations.
 
-![sigma-tribes-wallpaper](img.png)
+![sigma-tribes-wallpaper](sigma_tribes_wallpaper.jpeg)
